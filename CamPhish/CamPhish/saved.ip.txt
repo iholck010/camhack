@@ -1,0 +1,59 @@
+IP: 149.154.161.220
+ User-Agent: TelegramBot (like TwitterBot)IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Safari/604.1IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Safari/604.1IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Safari/604.1IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Safari/604.1IP: 149.154.161.212
+ User-Agent: TelegramBot (like TwitterBot)IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Safari/604.1IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Safari/604.1IP: 173.252.111.118
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 173.252.87.10
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 173.252.87.6
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/446.0.0.34.109;FBBV/568762245;FBDV/iPhone11,8;FBMD/iPhone;FBSN/iOS;FBSV/17.3.1;FBSS/2;FBCR/;FBID/phone;FBLC/en;FBOP/80]IP: 66.220.149.9
+ User-Agent: SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 12; 220733SG Build/SP1A.210812.016) [FBAN/EMA;FBBV/568004586;FBAV/395.0.0.13.108;FBDV/220733SG;FBSV/12;FBCX/OkHttp3;FBDM/{density=2.0}]IP: 173.252.95.6
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 173.252.127.9
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20G81 [FBAN/FBIOS;FBAV/451.0.4.35.109;FBBV/566175818;FBDV/iPhone13,1;FBMD/iPhone;FBSN/iOS;FBSV/16.6.1;FBSS/3;FBID/phone;FBLC/fr_FR;FBOP/5;FBRV/569622804]IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0IP: 185.244.155.166
+ User-Agent: WhatsApp/2.24.3.76 iIP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Safari/604.1IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Safari/604.1IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Safari/604.1IP: 130.193.230.91
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Mobile/15E148 Safari/604.1IP: 3.252.139.150
+ User-Agent: Snap URL Preview Service; bot; snapchat; https://developers.snap.com/robotsIP: 54.246.3.134
+ User-Agent: Snap URL Preview Service; bot; snapchat; https://developers.snap.com/robotsIP: 3.250.29.172
+ User-Agent: Snap URL Preview Service; bot; snapchat; https://developers.snap.com/robotsIP: 34.243.249.245
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_2_3 like Mac OS X) AppleWebKit/603.3.30 (KHTML, like Gecko) Version/16.2 Mobile/15E148 Snapchat/12.20.0.20 (like Safari/603.3, panda)IP: 54.247.229.42
+ User-Agent: Snap URL Preview Service; bot; snapchat; https://developers.snap.com/robotsIP: 149.154.161.234
+ User-Agent: TelegramBot (like TwitterBot)IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Safari/604.1IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Safari/604.1IP: 130.193.225.55
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1IP: 149.154.161.215
+ User-Agent: TelegramBot (like TwitterBot)IP: 173.252.111.8
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 173.252.83.10
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 173.252.83.120
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0IP: 52.213.31.14
+ User-Agent: Snap URL Preview Service; bot; snapchat; https://developers.snap.com/robotsIP: 63.33.58.49
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/523.1.30 (KHTML, like Gecko) Version/13.3 Mobile/15E148 Snapchat/11.12.0.32 (like Safari/523.1, panda)IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Safari/604.1IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Safari/604.1IP: 173.252.127.9
+ User-Agent: Mozilla/5.0 (Linux; Android 12; SM-G975U1 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.54 Mobile Safari/537.36 [FBAN/FB4A;FBAV/452.0.0.45.110;FBBV/568877261;FBDM/{density=4.0,width=1440,height=2706};FBLC/en_US;FBRV/0;FB_FW/2;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G975U1;FBSV/12;FBOP/19;FBCA/arm64-v8a:;]IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/446.0.0.34.109;FBBV/568762245;FBDV/iPhone11,8;FBMD/iPhone;FBSN/iOS;FBSV/17.3.1;FBSS/2;FBCR/;FBID/phone;FBLC/en;FBOP/80]IP: 31.13.127.3
+ User-Agent: Mozilla/5.0 (Linux; Android 12; CPH2471 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.178 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/446.0.0.44.109;]IP: 37.17.146.203
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/446.0.0.34.109;FBBV/568762245;FBDV/iPhone11,8;FBMD/iPhone;FBSN/iOS;FBSV/17.3;FBSS/2;FBCR/;FBID/phone;FBLC/en;FBOP/80]IP: 54.246.150.114
+ User-Agent: Snap URL Preview Service; bot; snapchat; https://developers.snap.com/robotsIP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0IP: 34.122.165.13
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_3 like Mac OS X) AppleWebKit/539.2.12 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Snapchat/12.28.0.29 (like Safari/539.2, panda)IP: 185.244.155.166
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Snapchat/12.74.0.37 (like Safari/8617.2.4.10.8, panda)IP: 54.74.179.219
+ User-Agent: Snap URL Preview Service; bot; snapchat; https://developers.snap.com/robotsIP: 3.253.38.147
+ User-Agent: Snap URL Preview Service; bot; snapchat; https://developers.snap.com/robotsIP: 185.244.155.231
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36IP: 185.244.155.231
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36IP: 185.244.155.231
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36IP: 185.244.155.231
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
